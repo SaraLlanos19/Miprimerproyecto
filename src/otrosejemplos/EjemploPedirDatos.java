@@ -22,10 +22,7 @@ public class EjemploPedirDatos {
         System.out.println("el peso de la persona es: " + pesoDeLaPersona);
         
         System.out.println("Peso: " + pesoDeLaPersona  +  ". Altura: " + alturaDeLaPersona + ".");
-        
-        
-
-                
+         
     }
     
 }
